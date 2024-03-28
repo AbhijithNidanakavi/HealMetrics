@@ -4,6 +4,8 @@ An end-to-end healthcare analytics project, demonstrating my expertise in data s
 One of the project's key highlights was the integration of model predictions back into Snowflake, allowing for real-time accuracy comparison against a predefined threshold of 85%. To ensure ongoing model performance, I implemented an automated email notification system triggered by a scoring script, which alerts stakeholders if the model's accuracy falls below the set threshold.
 This project exemplifies my ability to design and implement cloud-based solutions, leveraging tools such as Snowflake and AWS SageMaker. It marks a significant achievement in my data science journey, adding to my portfolio of projects that include TruthSeeker, time series forecasting, and machine learning with embedded systems. I am eager to apply these skills and experiences in my next role in data science.
 
+![HealMetrics Image](https://github.com/AbhijithNidanakavi/HealMetrics/assets/91921508/4136df62-0a1d-425d-9c2b-20342332f74b)
+
 # Architecture : 
 
 ![Healthcare Project Image](https://github.com/AbhijithNidanakavi/HealMetrics/assets/91921508/8b039f81-622f-4c90-8d1f-c2e9b939b20e)
