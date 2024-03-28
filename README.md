@@ -5,17 +5,17 @@ cost reduction. By proactively identifying patients at risk of extended LOS, pro
 
 Approach:
 
-. Exploratory Data Analysis (EDA) in Snowflake
-. Feature Engineering within Snowflake
-. AWS SageMaker Configuration
-. Retrieving Data from Snowflake using snowflake-connector-python and snowflake-sqlalchemy
-. Data Preprocessing
-. Feature Selection
-. Model Development:
-   a. Linear Regression
-   b. Random Forest Regression
-   c. XGBoost Regression
-. Model Predictions
-. Insertion of Model Predictions into Snowflake
-. Deployment and Scheduling of Scoring Functions
-. Automated Status Email Notification
+   . Exploratory Data Analysis (EDA) in Snowflake
+   . Feature Engineering within Snowflake
+   . AWS SageMaker Configuration
+   . Retrieving Data from Snowflake using snowflake-connector-python and snowflake-sqlalchemy
+   . Data Preprocessing
+   . Feature Selection
+   . Model Development:
+      a. Linear Regression
+      b. Random Forest Regression
+      c. XGBoost Regression
+   . Model Predictions
+   . Insertion of Model Predictions into Snowflake
+   . Deployment and Scheduling of Scoring Functions
+   . Automated Status Email Notification
