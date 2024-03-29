@@ -1,7 +1,7 @@
 # HealMetrics
 A healthcare analytics project focused on leveraging cutting-edge technology to predict hospital length of stay (LOS) for patients. Utilizing Snowflake for data management and AWS SageMaker for machine learning, the project aims to improve patient care and optimize hospital resource utilization.
 
-An end-to-end healthcare analytics project, demonstrating my expertise in data science. The project began with ETL processes in Snowflake, utilizing SQL queries and CTEs to handle raw data. AWS SageMaker was instrumental in preprocessing, feature engineering, and model development.
+An end-to-end healthcare analytics project, demonstrating my expertise in data science. The project began with ETL processes in Snowflake, utilizing SQL queries and CTEs to handle raw data. AWS SageMaker was instrumental in preprocessing, feature engineering, and model development. The training dataset comprises records for approximately 230,000 patients from diverse regions and hospitals, with a total of 19 features. Additionally, simulation data for 71,000 patients is available for predictive modeling purposes.
 
 One of the project's key highlights was the integration of model predictions back into Snowflake, allowing for real-time accuracy comparison against a predefined threshold of 85%. To ensure ongoing model performance, I implemented an automated email notification system triggered by a scoring script, which alerts stakeholders if the model's accuracy falls below the set threshold.
 
